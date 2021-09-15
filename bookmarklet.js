@@ -1,0 +1,1 @@
+javascript: (() => {var elements=document.getElementsByClassName("letter letter--basic screenBasic-letter   "); var result=""; for (var i=0, len=elements.length; i<len; i++) {result += elements[i].textContent;} navigator.clipboard.writeText(result);})();
