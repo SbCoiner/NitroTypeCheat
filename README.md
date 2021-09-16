@@ -7,6 +7,7 @@
 3. Join a nitrotype race
 4. Click on the bookmark once the race starts
 
+Please close the python window once you are done cheating as it will type anything that gets copied to the clipboard.
 Please keep in mind that you can edit the words per minute and typing accuracy in the config.txt file!
 
 ## FAQ
